@@ -1,0 +1,1 @@
+This file was created in b1 branch and then pushed to b1 and b2 branch
